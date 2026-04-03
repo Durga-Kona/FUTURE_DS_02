@@ -88,7 +88,7 @@ Segments customers based on experience level:
 |----------|-------------|
 | **task2_customer_churn_dashboard.pbix** | Power BI dashboard file |
 | **task2_customer_churn_dashboard.png** | Dashboard preview image |
-| **customer_churn.csv** | Dataset used for analysis |
+| **task2_customer_churn.csv** | Dataset used for analysis |
 
 ---
 
@@ -114,7 +114,7 @@ FUTURE_DS_02
 
 ├── task2_customer_churn_dashboard.png
 
-├── customer_churn.csv
+├── task2_customer_churn.csv
 
 └── README.md
 
